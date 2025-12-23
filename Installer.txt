@@ -1,0 +1,7 @@
+pip install -r requirements.txt
+
+Replace YOUR_TOKEN
+
+pip install pyinstaller
+
+pyinstaller --onefile prime_video.pyw
